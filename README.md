@@ -1,2 +1,2 @@
 # code-sadeq-uk
-My codding notes and tips website
+My coding notes and tips website
